@@ -143,7 +143,7 @@ Accuracy was validated by comparing extracted data with the original PDF tables.
 - For large PDFs with many tables, processing may take several minutes
 - Memory usage scales with PDF size and number of tables
 
-## Hackathon Solution Approach
+## Solution Approach
 
 This project was developed to address the challenge of extracting tables from PDFs without using common tools like Tabula or Camelot. The key innovations in our approach include:
 
