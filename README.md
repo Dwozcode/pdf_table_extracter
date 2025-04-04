@@ -2,8 +2,7 @@
 
 ## Project Overview
 
-This tool detects and extracts tables from system-generated PDFs and saves them to Excel files. The solution handles various table types including bordered tables, borderless tables, and irregularly shaped tables without using pre-built table extraction tools like Tabula or Camelot, and without converting PDFs to images.
-
+This tool detects and extracts tables from system-generated PDFs and saves them to Excel files. The solution handles various table types including bordered tables, borderless tables, and irregularly shaped tables without using pre-built table extraction tool.
 ## Features
 
 - **Multi-method table detection**:
