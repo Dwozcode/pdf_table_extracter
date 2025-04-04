@@ -18,6 +18,9 @@ This tool detects and extracts tables from system-generated PDFs and saves them 
   - Each table is saved to a separate worksheet
   - Worksheets are named based on page number and table index
   - Basic formatting is applied for readability
+    
+Demo Video
+[https://www.youtube.com/watch?v=VIDEO_ID](https://www.youtube.com/watch?v=JE6TVBmoUNw)
 
 ## Installation
 
@@ -151,15 +154,7 @@ This project was developed to address the challenge of extracting tables from PD
 2. **Content-aware cell mapping** - Intelligent assignment of text to table cells
 3. **Robust post-processing** - Cleaning and normalizing extracted data for consistency
 
-Our solution demonstrates that effective table extraction is possible without specialized table extraction libraries or image conversion techniques.
-
-## Presentation Key Points
-
-- Demonstration with different table types (bordered, borderless, irregular)
-- Comparison of extraction accuracy against manual extraction
-- Discussion of technical challenges and solutions
-- Performance metrics on various PDF types
-- Potential real-world applications
+solution demonstrates that effective table extraction is possible without specialized table extraction libraries or image conversion techniques.
 
 ---
 
